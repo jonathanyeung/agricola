@@ -1,0 +1,103 @@
+[
+    {
+        "TurnNumber":1,
+        "PlayerId": "UnknownUnknown",
+        "Round": 1,
+        "Stage": 1,
+        "PlayerActions": [
+            {
+                "ActionCard":"OneOccupation",
+                "OccupationPlayed":"Seasonal Worker"
+            }
+        ]
+    },
+    {
+        "TurnNumber":2,
+        "PlayerId": "Owl",
+        "Round": 1,
+        "Stage": 1,
+        "PlayerActions": [
+            {
+                "ActionCard":"OneReedOneStoneOneWood",
+                "ResourceChange": {
+                    "Wood":1,
+                    "Stone":1,
+                    "Reed":1
+                } 
+            }
+        ]
+    },
+    {
+        "TurnNumber":3,
+        "PlayerId": "jyeung",
+        "Round": 1,
+        "Stage": 1,
+        "PlayerActions": [
+            {
+                "ActionCard":"OneOccupationSecond",
+                "OccupationPlayed":"Field Watchman",
+                "ResourceChange": {
+                    "Food":-1
+                } 
+            }
+        ]
+    },
+    {
+        "TurnNumber":4,
+        "PlayerId": "nwcubbon",
+        "Round": 1,
+        "Stage": 1,
+        "PlayerActions": [
+            {
+                "ActionCard":"FourWood",
+                "ResourceChange": {
+                    "Wood":4
+                }
+            }
+        ]
+    },
+    {
+        "TurnNumber":5,
+        "PlayerId": "familycounselor",
+        "Round": 1,
+        "Stage": 1,
+        "PlayerActions": [
+            {
+                "ActionCard":"ThreeWood",
+                "ResourceChange": {
+                    "Wood":3
+                }
+            }
+        ]
+    },
+    {
+        "TurnNumber":6,
+        "PlayerId": "unknownunknown",
+        "Round": 1,
+        "Stage": 1,
+        "PlayerActions": [
+            {
+                "ActionCard":"DayLaborer",
+                "ResourceChange": {
+                    "Food":2,
+                    "Grain":1
+                }
+            }
+        ]
+    },
+    {
+        "TurnNumber":7,
+        "PlayerId": "unknownunknown",
+        "Round": 1,
+        "Stage": 1,
+        "PlayerActions": [
+            {
+                "ActionCard":"DayLaborer",
+                "ResourceChange": {
+                    "Food":2,
+                    "Grain":1
+                }
+            }
+        ]
+    }
+]
